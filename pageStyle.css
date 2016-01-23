@@ -1,0 +1,91 @@
+	body
+	{
+		font-family:'Jura',serif;
+		background-image: url("img/background.png");
+	}
+	th,table
+	{
+		text-align: center;
+		color: white;
+	}
+	#pageBox
+	{	
+		width: 900px;
+		min-height: 500px;
+		margin: 0 auto;
+		text-align: center;
+	}
+	#header
+	{
+		color: white;
+		text-align: center;
+		width:900px;
+		height:120px;
+		margin: 0 auto;
+		padding: 0 auto;
+	}
+	#szoveg
+	{
+		float:left;
+		text-align: right;
+		width: 70%;
+		height: 120px;
+	}
+	#logoDiv
+	{
+		float:left;
+		width: 20%;
+		height: 10%;
+	}
+	#kiaz
+	{
+		margin: 0 auto;
+		text-align: left;
+		float: left;
+		width: 10%;
+	}
+	#logo
+	{
+		width:100px;
+		height:100px;
+	}
+	#navBar
+	{
+		border-color: white;
+		border-style: solid;
+		font-size: 30px;
+		width:945px;
+		height:90px;
+		margin: 0 auto;
+		background-image: url("img/background.png");
+	}
+	#navBar ul,li
+	{
+		display:inline;
+		list-style-type: none;
+		float: left;
+		padding: 0px 10px;
+	}
+	#felvitel,#mod2
+	{
+		width: 900px;
+		margin: 0 auto;
+	}
+	a
+	{
+		text-decoration: none;
+	}
+	label,a,h1,h2,h3,p,#tabla
+	{
+		color: white;
+	}
+	caption
+	{
+		display: table-caption;
+		text-align: center;
+		color: white;
+	}
+	p
+	{
+		text-align: justify;
+	}
